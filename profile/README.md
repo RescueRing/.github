@@ -39,6 +39,8 @@ This project focuses on three core aspects:
 
 **Important**: This project is developed as part of the **Smart India Hackathon**, and its source code and features are restricted for use.
 
+![Block diagram](https://github.com/RescueRing/resources/blob/main/rescue_ring_blockdiagram.png)
+
 ---
 
 ## **Key Features**
