@@ -141,7 +141,10 @@ The **Rescue Ring Voice assistance** is a smart speaker that:
 - **Volunteer Control:** Volunteers are given enhanced features, such as the ability to send push notifications to users and verify disaster reports.
 - **User Alerts:** A visible alert is shown to all users to signal the activation of Disaster Mode and provide immediate guidance.
 
+---
+
 ## Technology Stack
+<img align="right" src="https://github.com/RescueRing/resources/blob/main/tech_stack.png?raw=true" width="350">
 
 - **Mobile App**: 
   - Framework: **Flutter**
@@ -163,7 +166,6 @@ The **Rescue Ring Voice assistance** is a smart speaker that:
 - **Firebase** for Authentication, Push notification and Real-time updates.
 
 ---
-
 ## Important Repositories
 
 Below are the key repositories for the **Team Rescue Ring** project:
