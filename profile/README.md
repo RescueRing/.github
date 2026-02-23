@@ -3,7 +3,6 @@
 
 Welcome to **Rescue Ring**, an innovative disaster management solution created for the **Smart India Hackathon**. Our platform provides seamless communication, real-time alerts, and resource coordination during natural disasters, combining the power of a **mobile app**, **website**, and **ovos voice assistance** to help communities stay prepared and connected.
 
----
 <!--
 ### Download APK
 
